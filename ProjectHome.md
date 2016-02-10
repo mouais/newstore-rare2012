@@ -1,0 +1,1 @@
+Projet fil rouge de la formation RARE 2010-2012 effectuée au CESI de Toulouse. Il ne s'agit pas d'un programme à proprement parler (aucun code) mais d'un projet réseau.
